@@ -1,2 +1,4 @@
-# python_challenges
-Solutions to Python challenges
+#Python Challenges
+
+Solutions to Python challenges found on https://edabit.com/challenges/. 
+
