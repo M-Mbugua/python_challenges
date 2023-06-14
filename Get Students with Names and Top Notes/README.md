@@ -1,8 +1,8 @@
-#Get Students with Names and Top Notes
+# Get Students with Names and Top Notes
 
 Create a function that takes a dictionary of objects like { "name": "John", "notes": [3, 5, 4] } and returns a dictionary of objects like { "name": "John", "top_note": 5 }.
 
-##Examples
+## Examples
 
     top_note({ "name": "John", "notes": [3, 5, 4] }) ➞ { "name": "John", "top_note": 5 }
     
