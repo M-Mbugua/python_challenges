@@ -1,4 +1,4 @@
-#Finding Adjacent Nodes
+# Finding Adjacent Nodes
 
 A graph is a set of nodes and edges that connect those nodes.
 
@@ -48,7 +48,7 @@ Here is how the above model might be written out:
 Your task is to determine if two nodes are adjacent in an undirected graph 
 when given the adjacency matrix and the two nodes.
 
-##Examples
+## Examples
 
 ![img_2.png](img_1.png)
 
@@ -78,7 +78,7 @@ Adjacency Matrix:
   - Nodes 0,3 should return True.
   - Nodes 1,4 should return False.
 
-##Notes
+## Notes
 
   - Graphs may have between 0 and 25,000 nodes.
   - Time Limit: 100 milliseconds.
