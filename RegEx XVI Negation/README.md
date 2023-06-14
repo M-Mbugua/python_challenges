@@ -1,15 +1,15 @@
-#RegEx XVI: Negation
+# RegEx XVI: Negation
 
 The caret ^, when found at the start of a character set, is the equivalent to "not" in RegEx. The regular expression [^a-c] matches any characters except "a", "b" and "c". Write the regular expression that matches any characters except letters, digits and spaces. You must use a negated character set in your expression.
 
-##Examples
+## Examples
 
     txt = " alice15@gmail.com "
     pattern = "yourregularexpressionhere"
 
 re.findall(pattern, txt) ➞ ["@", "."]
 
-##Notes
+## Notes
 
 - You don't need to write a function, just the pattern. 
 - Do not remove import re from the code.
